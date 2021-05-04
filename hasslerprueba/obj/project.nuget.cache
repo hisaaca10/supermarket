@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x8jIPXwsuP06yictqq3Zw1q1XuBf1qDx28u5QvJ7NweLsBlEDfEOdj2XVPv5RvukJINQhXfMPrW1UKZw0CsfeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\viviana\\source\\repos\\hasslerprueba\\hasslerprueba\\hasslerprueba.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\viviana\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
